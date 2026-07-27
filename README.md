@@ -25,5 +25,4 @@ Soy **IT Support Technician / Service Desk Agent** y estudiante de los últimos 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-### 📊 Mis Estadísticas
-![Estadísticas de Jorge](https://github-readme-stats.vercel.app/api?username=jorgemen18&show_icons=true&theme=radical)
+
