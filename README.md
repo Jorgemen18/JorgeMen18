@@ -26,6 +26,4 @@ Soy **IT Support Technician / Service Desk Agent** y estudiante de los últimos 
 </div>
 
 ### 📊 Mis Estadísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgemen18&show_icons=true&theme=radical" alt="Estadísticas de jorgemen18" />
-</p>
+![Estadísticas de Jorge](https://github-readme-stats.vercel.app/api?username=jorgemen18&show_icons=true&theme=radical)
