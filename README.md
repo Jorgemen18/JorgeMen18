@@ -5,7 +5,7 @@ Soy **IT Support Technician / Service Desk Agent** y estudiante de los últimos 
 ### 🚀 Sobre mí
 - 💻 Trabajo activamente brindando soporte técnico y soluciones de IT.
 - 🎓 A un paso de terminar mi carrera de Informática en la UIN.
-- ☁️ Preparándome para mis certificaciones de **Microsoft Azure (AZ-900 y AI-900)**.
+- ☁️ **Certificado en Microsoft Azure AI-900 (AI Fundamentals)** 🏆 y actualmente preparándome para el examen **AI-103**.
 - 🐧 Desarrollando proyectos de infraestructura, como la implementación de servidores osTicket en máquinas virtuales Linux (LAMP stack).
 - 🧠 Creando proyectos web interactivos (HTML, CSS, JS) y explorando el uso de APIs y automatización.
 - ⚡ Fuera del código: Disfruto correr (entrenando para 21K), la literatura, una buena partida de ajedrez o D&D, y dar tutorías de ciencias exactas.
